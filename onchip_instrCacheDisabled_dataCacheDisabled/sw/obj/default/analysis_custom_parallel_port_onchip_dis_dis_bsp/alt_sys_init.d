@@ -1,0 +1,74 @@
+obj/default/analysis_custom_parallel_port_onchip_dis_dis_bsp/alt_sys_init.o: \
+ analysis_custom_parallel_port_onchip_dis_dis_bsp/alt_sys_init.c \
+ analysis_custom_parallel_port_onchip_dis_dis_bsp/system.h \
+ analysis_custom_parallel_port_onchip_dis_dis_bsp/linker.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_irq.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\nios2.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\alt_types.h \
+ D:/embeddedlabs/RTES_lab1/onchip_instrCacheDisabled_dataCacheDisabled/analysis_custom_parallel_port_bsp/system.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_sys_init.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\altera_nios2_gen2_irq.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_jtag_uart.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_alarm.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_llist.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\priv\alt_alarm.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_warning.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\os\alt_sem.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\priv\alt_no_error.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\os\alt_flag.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_jtag_uart_fd.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_dev.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_llist.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\priv\alt_dev_llist.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_performance_counter.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\io.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\alt_types.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_timer.h
+
+analysis_custom_parallel_port_onchip_dis_dis_bsp/system.h:
+
+analysis_custom_parallel_port_onchip_dis_dis_bsp/linker.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_irq.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\nios2.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\alt_types.h:
+
+D:/embeddedlabs/RTES_lab1/onchip_instrCacheDisabled_dataCacheDisabled/analysis_custom_parallel_port_bsp/system.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_sys_init.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\altera_nios2_gen2_irq.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_jtag_uart.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_alarm.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_llist.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\priv\alt_alarm.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_warning.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\os\alt_sem.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\priv\alt_no_error.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\os\alt_flag.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_jtag_uart_fd.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_dev.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_llist.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\priv\alt_dev_llist.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_performance_counter.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\io.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\alt_types.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\drivers\inc\altera_avalon_timer.h:

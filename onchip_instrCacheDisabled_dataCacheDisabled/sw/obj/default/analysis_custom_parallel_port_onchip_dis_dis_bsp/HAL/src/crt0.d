@@ -1,0 +1,14 @@
+obj/default/analysis_custom_parallel_port_onchip_dis_dis_bsp/HAL/src/crt0.o: \
+ analysis_custom_parallel_port_onchip_dis_dis_bsp/HAL/src/crt0.S \
+ D:/embeddedlabs/RTES_lab1/onchip_instrCacheDisabled_dataCacheDisabled/analysis_custom_parallel_port_bsp/system.h \
+ D:/embeddedlabs/RTES_lab1/onchip_instrCacheDisabled_dataCacheDisabled/analysis_custom_parallel_port_bsp/linker.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\nios2.h \
+ d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_log_printf.h
+
+D:/embeddedlabs/RTES_lab1/onchip_instrCacheDisabled_dataCacheDisabled/analysis_custom_parallel_port_bsp/system.h:
+
+D:/embeddedlabs/RTES_lab1/onchip_instrCacheDisabled_dataCacheDisabled/analysis_custom_parallel_port_bsp/linker.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\nios2.h:
+
+d:\embeddedlabs\rtes_lab1\onchip_instrcachedisabled_datacachedisabled\analysis_custom_parallel_port_bsp\hal\inc\sys\alt_log_printf.h:
