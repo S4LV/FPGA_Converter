@@ -1,0 +1,43 @@
+C:/Users/ACER/Documents/accelerator/accelerator.vhdl {2 {vcom -work work -2008 -explicit C:/Users/ACER/Documents/accelerator/accelerator.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package accelerator_pkg
+-- Compiling entity Accelerator
+-- Compiling architecture RTL of Accelerator
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(169): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(172): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(176): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(183): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(236): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(239): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(243): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(246): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(250): Choice in ordinary CASE statement alternative must be locally static.
+** Warning: C:/Users/ACER/Documents/accelerator/accelerator.vhdl(253): Choice in ordinary CASE statement alternative must be locally static.
+
+} {} {}} C:/Users/ACER/Documents/accelerator/accelerator_pkg.vhdl {1 {vcom -work work -2002 -explicit C:/Users/ACER/Documents/accelerator/accelerator_pkg.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling package accelerator_pkg
+
+} {} {}} C:/Users/ACER/Documents/accelerator/accelerator_tb.vhdl {1 {vcom -work work -2002 -explicit C:/Users/ACER/Documents/accelerator/accelerator_tb.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package accelerator_pkg
+-- Compiling entity accelerator_tb
+-- Compiling architecture test of accelerator_tb
+-- Loading entity Accelerator
+
+} {} {}}

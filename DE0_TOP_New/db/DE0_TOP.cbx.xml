@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DE0_TOP">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|DEO_SALVA:u0|DEO_SALVA_jtag_uart_0:jtag_uart_0|DEO_SALVA_jtag_uart_0_scfifo_w:the_DEO_SALVA_jtag_uart_0_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_aq21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|DEO_SALVA:u0|DEO_SALVA_nios2_qsys_0:nios2_qsys_0|DEO_SALVA_nios2_qsys_0_nios2_oci:the_DEO_SALVA_nios2_qsys_0_nios2_oci|DEO_SALVA_nios2_qsys_0_nios2_ocimem:the_DEO_SALVA_nios2_qsys_0_nios2_ocimem|DEO_SALVA_nios2_qsys_0_ociram_sp_ram_module:DEO_SALVA_nios2_qsys_0_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_qb91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|DEO_SALVA:u0|DEO_SALVA_nios2_qsys_0:nios2_qsys_0|DEO_SALVA_nios2_qsys_0_register_bank_a_module:DEO_SALVA_nios2_qsys_0_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_75h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|DEO_SALVA:u0|DEO_SALVA_nios2_qsys_0:nios2_qsys_0|DEO_SALVA_nios2_qsys_0_register_bank_b_module:DEO_SALVA_nios2_qsys_0_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_85h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|DEO_SALVA:u0|DEO_SALVA_jtag_uart_0:jtag_uart_0|DEO_SALVA_jtag_uart_0_scfifo_r:the_DEO_SALVA_jtag_uart_0_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_aq21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|DEO_SALVA:u0|DEO_SALVA_onchip_memory2_0:onchip_memory2_0|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_1ad1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

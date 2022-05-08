@@ -1,0 +1,56 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: ip-generate --project-directory=C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/ --output-directory=C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA/ --report-file=bsf:C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA.bsf --system-info=DEVICE_FAMILY="Cyclone III" --system-info=DEVICE=EP3C16F484C6 --system-info=DEVICE_SPEEDGRADE=6 --component-file=C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA.qsys
+Progress: Loading DE0_TOP_New/DEO_SALVA.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 13.1]
+Progress: Parameterizing module clk_0
+Progress: Adding nios2_qsys_0 [altera_nios2_qsys 13.1]
+Progress: Parameterizing module nios2_qsys_0
+Progress: Adding onchip_memory2_0 [altera_avalon_onchip_memory2 13.1]
+Progress: Parameterizing module onchip_memory2_0
+Progress: Adding timer_0 [altera_avalon_timer 13.1]
+Progress: Parameterizing module timer_0
+Progress: Adding jtag_uart_0 [altera_avalon_jtag_uart 13.1]
+Progress: Parameterizing module jtag_uart_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: ip-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: ip-generate --project-directory=C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/ --output-directory=C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA/synthesis/ --file-set=QUARTUS_SYNTH --report-file=html:C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA.html --report-file=sopcinfo:C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA.sopcinfo --report-file=cmp:C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA.cmp --report-file=qip:C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA/synthesis/DEO_SALVA.qip --report-file=svd --report-file=regmap:C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA/synthesis/DEO_SALVA.regmap --report-file=debuginfo:C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA/synthesis/DEO_SALVA.debuginfo --system-info=DEVICE_FAMILY="Cyclone III" --system-info=DEVICE=EP3C16F484C6 --system-info=DEVICE_SPEEDGRADE=6 --component-file=C:/Users/ACER/Downloads/DE0_Debounce/DE0_TOP_New/DEO_SALVA.qsys --language=VHDL
+Progress: Loading DE0_TOP_New/DEO_SALVA.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 13.1]
+Progress: Parameterizing module clk_0
+Progress: Adding nios2_qsys_0 [altera_nios2_qsys 13.1]
+Progress: Parameterizing module nios2_qsys_0
+Progress: Adding onchip_memory2_0 [altera_avalon_onchip_memory2 13.1]
+Progress: Parameterizing module onchip_memory2_0
+Progress: Adding timer_0 [altera_avalon_timer 13.1]
+Progress: Parameterizing module timer_0
+Progress: Adding jtag_uart_0 [altera_avalon_jtag_uart 13.1]
+Progress: Parameterizing module jtag_uart_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: DEO_SALVA: Generating DEO_SALVA "DEO_SALVA" for QUARTUS_SYNTH
+Info: pipeline_bridge_swap_transform: After transform: 4 modules, 15 connections
+Info: No custom instruction connections, skipping transform 
+Info: merlin_initial_interconnect_transform: After transform: 4 modules, 14 connections
+Info: merlin_translator_transform: After transform: 9 modules, 34 connections
+Info: merlin_domain_transform: After transform: 18 modules, 92 connections
+Info: merlin_router_transform: After transform: 23 modules, 112 connections
+Info: merlin_network_to_switch_transform: After transform: 32 modules, 137 connections
+Info: merlin_clock_and_reset_bridge_transform: After transform: 34 modules, 170 connections
+Info: merlin_hierarchy_transform: After transform: 5 modules, 18 connections
+Info: merlin_mm_transform: After transform: 5 modules, 18 connections
+Info: merlin_interrupt_mapper_transform: After transform: 6 modules, 22 connections
+Info: reset_adaptation_transform: After transform: 8 modules, 24 connections
+Error: Generation stopped, 6 or more modules remaining
+Info: DEO_SALVA: Done "DEO_SALVA" with 7 modules, 1 files, 38187 bytes
+Error: ip-generate failed with exit code 1: 1 Error, 0 Warnings
+Info: Stopping: Create HDL design files for synthesis
